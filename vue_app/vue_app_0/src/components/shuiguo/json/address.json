@@ -1,0 +1,52 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "uname": "张三",
+      "uage": "男士",
+      "label": "家",
+      "province": "湖南省",
+      "city": "永州市",
+      "country": "道县",
+      "address": "XX镇",
+      "phone": 18607696671,
+      "is_default": "快递"
+    },
+    {
+      "id": 2,
+      "uname": "李四",
+      "uage": "女士",
+      "label": "学校",
+      "province": "湖南省",
+      "city": "永州市",
+      "country": "道县",
+      "address": "XX镇",
+      "phone": 18607696672,
+      "is_default": "同城"
+    },
+    {
+      "id": 3,
+      "uname": "王五",
+      "uage": "男士",
+      "label": "公司",
+      "province": "湖南省",
+      "city": "永州市",
+      "country": "道县",
+      "address": "XX镇",
+      "phone": 18607696673,
+      "is_default": "自提"
+    },
+    {
+      "country": "西城区",
+      "is_default": "快递",
+      "label": "家",
+      "phone": "13665554555",
+      "province": "北京市",
+      "uage": "男士",
+      "uname": "张扬",
+      "city": "市辖区",
+      "address": "阿达",
+      "id": 4
+    }
+  ]
+}
